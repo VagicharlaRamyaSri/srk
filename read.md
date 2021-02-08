@@ -20,3 +20,6 @@ git add filename (or) git add . (or) git add --all--->converts untracked file to
 git config --global --unset user.name "name"--->removes the username
 git config --global user.name
 git config --global user.email
+git commit -m "message"
+git rm --cached filename
+
